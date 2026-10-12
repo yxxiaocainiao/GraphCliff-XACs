@@ -1,0 +1,50 @@
+[
+  {
+    "task": "CHEMBL234_Ki",
+    "pairs": 2600,
+    "skipped_degenerate_pairs": 4,
+    "anchors": 980,
+    "delta_min": -3.563373822040891,
+    "delta_max": 3.563373822040891,
+    "annotation_sha256": "251493f7186c2cd559ccbd10c50ba4c8fd3afcd4e191252a659ed2da46e2d0ed",
+    "data_sha256": "ca8c6bb3c4081c7084439f0e111292d13ef18e117895c65e6ad7f3f2ee4765e8",
+    "train_count": 2632,
+    "valid_count": 292
+  },
+  {
+    "task": "CHEMBL2047_EC50",
+    "pairs": 370,
+    "skipped_degenerate_pairs": 0,
+    "anchors": 157,
+    "delta_min": -3.0569048513364723,
+    "delta_max": 3.0569048513364723,
+    "annotation_sha256": "803d0c7d1811d7cf35b659ab9ec140adfb968fa75a1d684beb682cea0d8faeb9",
+    "data_sha256": "62a66fa205500036adc34f431f18ff6c3b4dc2f340e65f9fe6f586f5d6af80b0",
+    "train_count": 452,
+    "valid_count": 51
+  },
+  {
+    "task": "CHEMBL2147_Ki",
+    "pairs": 1512,
+    "skipped_degenerate_pairs": 2,
+    "anchors": 379,
+    "delta_min": -4.868635731957997,
+    "delta_max": 4.868635731957997,
+    "annotation_sha256": "0697c1fc8ef8a050a9f97a218311ecadee27205d3a9aa5f40a7d0f8bf3cfc26f",
+    "data_sha256": "fb9e9535e9a5292818354fcff6257f9c3dc2ac18790fb88e0f1587bc8afe1b57",
+    "train_count": 1045,
+    "valid_count": 117
+  },
+  {
+    "task": "CHEMBL244_Ki",
+    "pairs": 2486,
+    "skipped_degenerate_pairs": 10,
+    "anchors": 906,
+    "delta_min": -5.363177902412826,
+    "delta_max": 5.363177902412826,
+    "annotation_sha256": "2c820c5fcbd0ef6aabda59437860264931517c891a1091764e4eeeb420999154",
+    "data_sha256": "38f8b8a3975c9641657caa1dd5b524c71fca229347437a2025426ccd01fc1aa4",
+    "train_count": 2229,
+    "valid_count": 247
+  }
+]

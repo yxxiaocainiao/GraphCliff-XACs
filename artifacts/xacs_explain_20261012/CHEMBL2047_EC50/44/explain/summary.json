@@ -1,0 +1,16 @@
+{
+  "task": "CHEMBL2047_EC50",
+  "seed": 44,
+  "arm": "explain",
+  "initial_sha256": "3280dd6c83339c55509cc3cc59d07beff4a2974bc1805561d08b991c17a284ed",
+  "parameters": 6021198,
+  "best_epoch": 58,
+  "epochs": 73,
+  "train_count": 452,
+  "valid_count": 51,
+  "weight": 0.01,
+  "seconds": 59.20300000003772,
+  "test_labels_read": false,
+  "rmse": 0.4260124496784011,
+  "cliff_rmse": 0.4487012155925339
+}

@@ -1,0 +1,17 @@
+# Keep the frozen experimental sources byte-identical on every checkout: the manifests in
+# artifacts/xacs_explain_20261012 record their SHA256 values.
+model.py -text
+dataset.py -text
+dataset_utils.py -text
+main.py -text
+train.py -text
+benchmark_data/* -text
+experiments/aca/vendor/* -text
+experiments/xacs_explain/* -text
+experiments/aca/run.py -text
+experiments/aca/loss_adapter.py -text
+experiments/aca_local/pilot.py -text
+tools/xacs_intake/* -text
+artifacts/xacs_explain_20261012/** -text
+docs/xacs_intake_20261012/* -text
+docs/xacs_explain_20261012/* -text

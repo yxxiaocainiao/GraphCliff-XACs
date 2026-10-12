@@ -1,0 +1,320 @@
+{
+  "rows": [
+    {
+      "task": "CHEMBL234_Ki",
+      "seed": 42,
+      "arm": "mse",
+      "pairs": 54,
+      "informative_pairs": 16,
+      "hinge_satisfied": 6,
+      "hinge_satisfaction_rate": 0.375,
+      "mean_uncommon_attribution_share": 0.44773156305876916,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "seed": 42,
+      "arm": "explain",
+      "pairs": 54,
+      "informative_pairs": 6,
+      "hinge_satisfied": 2,
+      "hinge_satisfaction_rate": 0.3333333333333333,
+      "mean_uncommon_attribution_share": 1.0,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "seed": 43,
+      "arm": "mse",
+      "pairs": 54,
+      "informative_pairs": 24,
+      "hinge_satisfied": 4,
+      "hinge_satisfaction_rate": 0.16666666666666666,
+      "mean_uncommon_attribution_share": 0.7269637867524619,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "seed": 43,
+      "arm": "explain",
+      "pairs": 54,
+      "informative_pairs": 10,
+      "hinge_satisfied": 4,
+      "hinge_satisfaction_rate": 0.4,
+      "mean_uncommon_attribution_share": 0.5229114103383851,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "seed": 44,
+      "arm": "mse",
+      "pairs": 54,
+      "informative_pairs": 10,
+      "hinge_satisfied": 10,
+      "hinge_satisfaction_rate": 1.0,
+      "mean_uncommon_attribution_share": 0.8333333333333334,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "seed": 44,
+      "arm": "explain",
+      "pairs": 54,
+      "informative_pairs": 6,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": 0.0,
+      "mean_uncommon_attribution_share": 0.75,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "seed": 42,
+      "arm": "mse",
+      "pairs": 0,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "seed": 42,
+      "arm": "explain",
+      "pairs": 0,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "seed": 43,
+      "arm": "mse",
+      "pairs": 0,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "seed": 43,
+      "arm": "explain",
+      "pairs": 0,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "seed": 44,
+      "arm": "mse",
+      "pairs": 0,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "seed": 44,
+      "arm": "explain",
+      "pairs": 0,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "seed": 42,
+      "arm": "mse",
+      "pairs": 32,
+      "informative_pairs": 4,
+      "hinge_satisfied": 2,
+      "hinge_satisfaction_rate": 0.5,
+      "mean_uncommon_attribution_share": 0.25,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "seed": 42,
+      "arm": "explain",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": 0.0,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "seed": 43,
+      "arm": "mse",
+      "pairs": 32,
+      "informative_pairs": 28,
+      "hinge_satisfied": 8,
+      "hinge_satisfaction_rate": 0.2857142857142857,
+      "mean_uncommon_attribution_share": 0.3824124397126835,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "seed": 43,
+      "arm": "explain",
+      "pairs": 32,
+      "informative_pairs": 4,
+      "hinge_satisfied": 4,
+      "hinge_satisfaction_rate": 1.0,
+      "mean_uncommon_attribution_share": 0.6666666666666666,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "seed": 44,
+      "arm": "mse",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "seed": 44,
+      "arm": "explain",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": null,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "seed": 42,
+      "arm": "mse",
+      "pairs": 32,
+      "informative_pairs": 8,
+      "hinge_satisfied": 4,
+      "hinge_satisfaction_rate": 0.5,
+      "mean_uncommon_attribution_share": 0.09938320302984562,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "seed": 42,
+      "arm": "explain",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": 0.0,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "seed": 43,
+      "arm": "mse",
+      "pairs": 32,
+      "informative_pairs": 8,
+      "hinge_satisfied": 6,
+      "hinge_satisfaction_rate": 0.75,
+      "mean_uncommon_attribution_share": 0.2616611350714096,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "seed": 43,
+      "arm": "explain",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": 0.0,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "seed": 44,
+      "arm": "mse",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": 0.0,
+      "median_uncommon_atoms": null
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "seed": 44,
+      "arm": "explain",
+      "pairs": 32,
+      "informative_pairs": 0,
+      "hinge_satisfied": 0,
+      "hinge_satisfaction_rate": null,
+      "mean_uncommon_attribution_share": 0.0,
+      "median_uncommon_atoms": null
+    }
+  ],
+  "by_task_arm": [
+    {
+      "task": "CHEMBL2047_EC50",
+      "arm": "explain",
+      "hinge_satisfaction_rate": NaN,
+      "uncommon_attribution_share": NaN
+    },
+    {
+      "task": "CHEMBL2047_EC50",
+      "arm": "mse",
+      "hinge_satisfaction_rate": NaN,
+      "uncommon_attribution_share": NaN
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "arm": "explain",
+      "hinge_satisfaction_rate": 1.0,
+      "uncommon_attribution_share": 0.3333333333333333
+    },
+    {
+      "task": "CHEMBL2147_Ki",
+      "arm": "mse",
+      "hinge_satisfaction_rate": 0.39285714285714285,
+      "uncommon_attribution_share": 0.3162062198563418
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "arm": "explain",
+      "hinge_satisfaction_rate": 0.24444444444444446,
+      "uncommon_attribution_share": 0.7576371367794618
+    },
+    {
+      "task": "CHEMBL234_Ki",
+      "arm": "mse",
+      "hinge_satisfaction_rate": 0.5138888888888888,
+      "uncommon_attribution_share": 0.6693428943815215
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "arm": "explain",
+      "hinge_satisfaction_rate": NaN,
+      "uncommon_attribution_share": 0.0
+    },
+    {
+      "task": "CHEMBL244_Ki",
+      "arm": "mse",
+      "hinge_satisfaction_rate": 0.625,
+      "uncommon_attribution_share": 0.1203481127004184
+    }
+  ],
+  "note": "Validation-internal pairs; labels used for diagnosis only. Attribution share is the GradCAM mass on the annotated uncommon atoms divided by total attribution mass of that molecule.",
+  "weight": 0.01
+}

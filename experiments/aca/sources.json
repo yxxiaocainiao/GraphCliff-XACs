@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/shenwanxiang/ACANet",
+  "commit": "4c43e6024345d0ec4d40fdc88ad57224c898b6da",
+  "license": "GPL-3.0",
+  "files": {
+    "upstream_loss.py": "ad7e1722383fb85693bfd821b0c5f32827f4cb2867c591865569c445c640df37",
+    "LICENSE.upstream.txt": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  }
+}

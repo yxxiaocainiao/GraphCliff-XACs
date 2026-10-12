@@ -1,0 +1,16 @@
+{
+  "task": "CHEMBL234_Ki",
+  "seed": 42,
+  "arm": "mse",
+  "initial_sha256": "74cfe54fa4c8b7e720bc10caf3f2856eeb83a16ec3406e7af26bdf72985199e4",
+  "parameters": 6021198,
+  "best_epoch": 50,
+  "epochs": 65,
+  "train_count": 2632,
+  "valid_count": 292,
+  "weight": 0.01,
+  "seconds": 277.39100000000326,
+  "test_labels_read": false,
+  "rmse": 0.6109578500525994,
+  "cliff_rmse": 0.67053707956063
+}
